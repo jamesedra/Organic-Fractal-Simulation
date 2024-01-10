@@ -1,7 +1,7 @@
 # Organic Fractal Simulation
-Procedurally generating a depth-based colored, 3D "organic" fractal.
+Procedurally generating a depth-based colored, 3D "organic" fractal made in Unity URP.
 
-This mathematically structured fractal is given an organic structure and movement through pseudo-random methods such as the Weyl's sequence to make it look organic.
+This mathematically structured fractal is given a natural structure and movement through pseudo-random methods such as Weyl's sequence to make it look organic.
 
 <img src="/Assets/GIF/FractalShowcase.gif" alt="Parametric Surfaces" style="width: 70%"> 
 
